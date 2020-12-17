@@ -13,8 +13,6 @@ var specialChar = false;
 
 // Function to prompt user for password option they want
 
-
-
 function passwordOptionPrompts() {
     var length = '';
 
